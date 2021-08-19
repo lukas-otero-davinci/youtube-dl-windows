@@ -3,8 +3,6 @@ Youtube-DL-for-Windows - Download songs from youtube
 
 [![Build Status](https://github.com/ytdl-org/youtube-dl/workflows/CI/badge.svg)](https://github.com/ytdl-org/youtube-dl/actions?query=workflow%3ACI)
 
-# YOUTUBE-DL FOR WINDOWS - TO DOWNLOAD SONGS FROM YOUTUBE.COM
-
 - [DESCRIPTION](#description)
 - [PYTHON INSTALLATION](#python-installation)
 - [FFMPEG INSTALLATION](#ffmpeg-installation)
